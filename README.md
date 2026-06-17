@@ -18,8 +18,7 @@
 
 - 👀 I'm interested in **e-commerce architecture, headless storefronts, and 3D/AR product configurators**
 - 🌱 I'm currently leveling up my **Next.js App Router & React Server Components**
-- 💞️ I'm looking to collaborate on **Next.js storefronts, Magento 2 modules, and AR/3D shopping experiences**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **Joyaljohnson4856@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once tracked down a mobile AR crash caused by an iframe quietly leaking memory in the background
 
@@ -40,30 +39,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2EA3F7,100:8E54E9&height=4&section=header&animation=twinkling" width="100%" />
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JOYALJOHNSON4856&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOYALJOHNSON4856&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JOYALJOHNSON4856&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOYALJOHNSON4856&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2EA3F7,100:8E54E9&height=4&section=header&animation=twinkling" width="100%" />
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JOYALJOHNSON4856/JOYALJOHNSON4856/output/github-contribution-grid-snake.svg" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2EA3F7,100:8E54E9&height=4&section=header&animation=twinkling" width="100%" />
 
 ### 🌐 Connect With Me
 
