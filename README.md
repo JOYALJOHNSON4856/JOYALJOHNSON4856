@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Smilies/Sparkles.png" width="35" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2EA3F7,100:8E54E9&height=4&section=header&animation=twinkling" width="100%" />
+
 
 ### 👋 About Me
 
